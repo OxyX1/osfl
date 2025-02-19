@@ -1,0 +1,6 @@
+import system; //import the system
+
+sys = system(); //create system object
+
+sys.output("hello, world!"); //print hello world
+sys.input(0); //keep the terminal running
